@@ -2,6 +2,7 @@
 
 Dynamic Programming 
  - Climbing Stairs
+ - Pascal's Triangle
 
 Binary Tree
  - Two Sum
