@@ -1,5 +1,8 @@
 # Leetcode-Problems
 
+Arrays & Hashing
+ - Contains Duplicate
+
 Dynamic Programming 
  - Climbing Stairs
  - Pascal's Triangle
