@@ -2,6 +2,7 @@
 
 Arrays & Hashing
  - Contains Duplicate
+ - Valid Anagram
 
 Dynamic Programming 
  - Climbing Stairs
