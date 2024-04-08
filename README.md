@@ -1,5 +1,7 @@
 # Leetcode-Problems
 
+Solving in both C++ and Python
+
 Arrays & Hashing
  - Contains Duplicate
  - Valid Anagram
