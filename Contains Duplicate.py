@@ -1,3 +1,23 @@
+### C ++ ###
+
+class Solution {
+public:
+    bool containsDuplicate(vector<int>& nums) {
+        sort(nums.begin(), nums.end()); //Sorting 
+
+        for (int i=0; i < nums.size() - 1; i++){
+            if (nums[i] == nums[i+1]){
+                return true;
+            }
+        }
+        return false;
+    }
+};
+
+
+
+### Python ###
+
 ## 1 - Compare adjacent numbers after sorting
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
