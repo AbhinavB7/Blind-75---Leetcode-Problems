@@ -1,23 +1,28 @@
-# Leetcode-Problems
-
-Solving in both C++ and Python
+# Blind 75 - Leetcode-Problems
 
 Arrays & Hashing
- - Contains Duplicate
- - Valid Anagram
+ - Contains Duplicate 
+ - Valid Anagram 
  - Two Sum
 
-Dynamic Programming 
- - Climbing Stairs
- - Pascal's Triangle
- - Pascal's Triangle II
+ Two Pointers
+ - Valid Palindrome 
+
+Sliding Window
  - Best time to buy and sell stock
- - Counting Bits
- -    
 
-Binary Tree
- - Two Sum
+1-D Dynamic Programming 
+ - Climbing Stairs
+
+Bit Manipulation
+ - Counting Bits
+
+Trees
  - Maximum Depth of Binary Tree
 
-Binary Search
+
+
+Extras
  - Search Insert Position
+ - Pascal's Triangle
+ - Pascal's Triangle II
