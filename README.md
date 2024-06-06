@@ -18,6 +18,7 @@ Bit Manipulation
  - Counting Bits
  - Number of 1 Bits
  - Reverse Bits
+ - Missing Number
 
 Trees
  - Maximum Depth of Binary Tree
