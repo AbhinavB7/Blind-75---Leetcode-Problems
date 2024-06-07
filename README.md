@@ -23,6 +23,7 @@ Bit Manipulation
 
 Trees
  - Maximum Depth of Binary Tree
+ - Invert Binary Tree
 
 
 
