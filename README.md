@@ -13,6 +13,7 @@ Sliding Window
 
 1-D Dynamic Programming 
  - Climbing Stairs
+ - House Robber
 
 Bit Manipulation
  - Counting Bits
@@ -24,6 +25,7 @@ Bit Manipulation
 Trees
  - Maximum Depth of Binary Tree
  - Invert Binary Tree
+ - Same Tree
 
 
 
