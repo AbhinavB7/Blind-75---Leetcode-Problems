@@ -34,3 +34,4 @@ Extras
  - Search Insert Position
  - Pascal's Triangle
  - Pascal's Triangle II
+ - Rotate Array 
